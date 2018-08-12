@@ -1,0 +1,12 @@
+name: auth_params
+description: Parser for auth-param syntax from RFC7235.
+version: 1.0.0+1
+homepage: https://github.com/Cretezy/auth_params.dart
+author: Charles Crete <charles@cretezy.com>
+
+environment:
+  sdk: '>=2.0.0-dev.68.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.0.0
+  collection: ^1.14.11
