@@ -1,4 +1,5 @@
-# auth_params
+# auth_params [![pub package](https://img.shields.io/pub/v/auth_params.svg)](https://pub.dartlang.org/packages/auth_params)
+
 
 Parser for auth-param syntax from [RFC7235](https://tools.ietf.org/html/rfc7235).
 
